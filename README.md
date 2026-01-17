@@ -1,6 +1,6 @@
 ## Hi, I'm Ayushi 👋
 
-<img src="gitHub.gif">
+<img src="gitHub.gif" width="50px" >
 
 Computer engineering student interested in systems, algorithms, and machine learning.  
 Focused on correctness, performance, and understanding why systems fail under real-world conditions.
