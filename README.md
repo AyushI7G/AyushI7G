@@ -4,9 +4,9 @@ Computer engineering student interested in systems, algorithms, and machine lear
 Focused on correctness, performance, and understanding why systems fail under real-world conditions.
 
 
-<img src="gitHub.gif" width="100px" >
-
 Building and analyzing software end-to-end.
+
+<img src="gitHub.gif" width="100px" >
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank">
