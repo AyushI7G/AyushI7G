@@ -1,6 +1,9 @@
-## Hi, I'm Ayushi 👋
+<h2>
+  Hi, I'm Ayushi
+  <img src="SMALL_GIF_LINK" width="26" style="vertical-align: middle;" />
+</h2>
 
-<img src="GIF_LINK" width="380" />
+<img src="BIG_GIF_LINK" width="380" />
 
 Computer engineering student interested in systems, algorithms, and machine learning.  
 🔍 Focused on correctness, performance, and understanding why systems fail under real-world conditions.
