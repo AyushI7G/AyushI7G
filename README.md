@@ -3,7 +3,7 @@
 <img src="gitHub.gif" width="100px" >
 
 Computer engineering student interested in systems, algorithms, and machine learning.  
-Focused on performance, scalability, and clean system design.
+Focused on performance, scalability, and system design.
 
 Building and analyzing software end-to-end.
 
