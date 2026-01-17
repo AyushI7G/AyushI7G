@@ -1,5 +1,6 @@
-### Hi, Ayushi Gupta
+Hi, I'm Ayushi.
 
-<img src="https://media.giphy.com/media/xxxxx/giphy.gif" width="400" />
+I'm a computer engineering student interested in systems, algorithms, and machine learning.
+I care about correctness, performance, and understanding why systems fail under real-world conditions.
 
-I'm a computer science undergraduate interested in systems, algorithms, and machine learning.
+I enjoy building and analyzing software end-to-end.
