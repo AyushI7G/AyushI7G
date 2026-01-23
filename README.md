@@ -13,7 +13,8 @@ Building and analyzing software end-to-end.
   </a>
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2ECC71?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat&logo=vercel&logoColor=white" />
+
   </a>
 </p>
 
