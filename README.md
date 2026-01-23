@@ -13,9 +13,9 @@ Building and analyzing software end-to-end.
   </a>
 
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Work-111827?style=flat&logo=google-chrome&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/My%20Work-ff69b4?style=flat&logo=dribbble&logoColor=white" />
   </a>
 </p>
+
 
 
