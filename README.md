@@ -13,7 +13,8 @@ Building and analyzing software end-to-end.
   </a>
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-2ECC71?style=flat&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-2ECC71?style=flat&logo=readthedocs&logoColor=white" />
+
 
 
   </a>
