@@ -7,14 +7,8 @@ Building and analyzing software end-to-end.
 
 <img src="gitHub.gif" width="100px" >
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayushi-gupta-4b8350221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ayushi7g.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-4b8350221/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
 
 
 
