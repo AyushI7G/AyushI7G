@@ -13,7 +13,7 @@ Building and analyzing software end-to-end.
   </a>
 
    <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   
 </p>
