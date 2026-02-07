@@ -9,10 +9,3 @@ Building and analyzing software end-to-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-4b8350221/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
- 
-gkg kkg kh kj
-fjj udfutdududutdututd du du du u  
-odfjah alfjl asfosh flshflj slfhs h
-<br> ahfoa foha gosg sogh oigh is
-dkjaf sfl wfjw sflwjfl 
-afh fjia foiashf eoh89-
