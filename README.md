@@ -11,7 +11,7 @@ Building and analyzing software end-to-end.
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
 
 skmfehkj fjskl flkws fl swlf <br>
-ijfdoias fdljsa fhsalfh lsaflahf 
+ijfdoias fdljsa fhsalfh lsaflahf <br>
 sdadnalda
 adfmliufahf ahfah
 amasda
