@@ -11,6 +11,9 @@ Building and analyzing software end-to-end.
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/6anCA3LH5l/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
 
+
+![Snake animation](https://github.com/AyushI7G/AyushI7G/blob/output/github-contribution-grid-snake.svg)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushI7G)
 
 
