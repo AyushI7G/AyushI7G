@@ -1,4 +1,4 @@
-## Hi, I'm Ayushi Gupta 👋
+## Hi, I'm Ayushi Gupta 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=AyushI7G)
 
 Computer engineering student interested in systems, algorithms, and machine learning.  
 Focused on performance, scalability, and system design.
