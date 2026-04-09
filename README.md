@@ -10,3 +10,5 @@ Building and analyzing software end-to-end.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-4b8350221/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/6anCA3LH5l/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
+
+[![LeetCode Stats](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/6anCA3LH5l&color=orange)](https://leetcode.com/u/6anCA3LH5l/)
