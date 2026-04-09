@@ -1,4 +1,4 @@
-## Hi, I'm Ayushi Gupta 👋
+## Hi, I'm Ayushi Gupta 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=AyushI7G)
 
 Computer engineering student interested in systems, algorithms, and machine learning.  
 Focused on performance, scalability, and system design.
@@ -13,6 +13,3 @@ Building and analyzing software end-to-end.
 ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushI7G)
-
- ![Visitor Count](https://komarev.com/ghpvc/?username=AyushI7G)
-
