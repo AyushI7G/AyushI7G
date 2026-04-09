@@ -12,4 +12,4 @@ Building and analyzing software end-to-end.
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://ayushi7g.github.io/Portfolio/)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushI7G&show_icons=true)
