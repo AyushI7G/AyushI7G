@@ -14,4 +14,4 @@ Building and analyzing software end-to-end.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushI7G)
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,java,git,linux)
+![Skills](https://skillicons.dev/icons?i=java,python,c,js)
