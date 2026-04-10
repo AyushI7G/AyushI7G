@@ -15,9 +15,3 @@ Building and analyzing software end-to-end.
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushI7G)
 
 ![Skills](https://skillicons.dev/icons?i=java,python,c,js)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushI7G&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushI7G&layout=compact" />
-</p>
