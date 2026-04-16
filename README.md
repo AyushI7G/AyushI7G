@@ -15,31 +15,3 @@ Building and analyzing software end-to-end.
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushI7G)
 
 ![Skills](https://skillicons.dev/icons?i=java,python,c,js)
-
-
-
-f  sfjshf sfh ksjfk 
-akf hakhfakjf kafakf ak
-ifsl fskjgsd gksh d 
-eu fkehfk gkhg kgkkfs
-efg kwgkgrg kdg
-kw thwhgrjkgrwk k g
-ajfh kahfk ahkfaj
-aiuf akhf haf kajf k
-afgajfj afaj kfaj f
-a dfja gfjsafjdfj 
-alf n akj hfkjahf khk sha
-af hkjfhakjfhak fkjk
-udgf sghks fjgh fsd
-afiakjf lkajfl llk
-dsuhfsd hgkds k sgh
-ak fka hfka kfa kk
-sku djahf kshk af
-aiu dfakfh 
-auhc kahsc a jhsa jda jh
-kjshd ksahkd sah
-ahd ajdla djlka djlajk al
-ad ahdkja d akhj 
-wkefkwhf wh fjwkhfkhw k
-auifauhfjkahfjka ha ghakj j
-fiufaihfkahk fkj k j hk 
