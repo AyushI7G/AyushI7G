@@ -13,3 +13,5 @@ Building and analyzing software end-to-end.
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/ayushigupta1187)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushI7G)
+
+![Skills](https://skillicons.dev/icons?i=java,python,c,js)
